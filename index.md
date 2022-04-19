@@ -9,18 +9,18 @@
     Washington, DC 20005
 
 ### Executive Committee
-Linda Akli - [akli@sura.org](mailto:akli@sura.org?subject=[ACSC22-DC])
-Jay Alameda	- [alameda@illinois.edu](mailto:alameda@illinois.edu)
-Marques Bland -	[mbland@tacc.utexas.edu](mailto:mbland@tacc.utexas.edu?subject=[ACSC22-DC])
-Rylan Chong - [rylan.chong@chaminade.edu](mailto:rylan.chong@chaminade.edu?subject=[ACSC22-DC])
-Lizanne DeStefano - [ldestefano6@gatech.edu](mailto:ldestefano6@gatech.edu?subject=[ACSC22-DC])
-Sue Fratkin - [Susan.Fratkin@austin.utexas.edu](mailto:Susan.Fratkin@austin.utexas.edu?subject=[ACSC22-DC])
-Kelly Gaither - [kelly@tacc.utexas.edu](mailto:kelly@tacc.utexas.edu?subject=[ACSC22-DC])
-Rosalia Gomez - [rosie@tacc.utexas.edu](mailto:rosie@tacc.utexas.edu?subject=[ACSC22-DC])
-John Holly - [jholly@sura.org](mailto:jholly@sura.org?subject=[ACSC22-DC])
-Dawn Hunter - [dhunter@tacc.utexas.edu](mailto:dhunter@tacc.utexas.edu?subject=[ACSC22-DC])
-Kahoali`i Keahi-Wood - [kahoalii.keahi-wood@chaminade.edu](mailto:kahoalii.keahi-wood@chaminade.edu?subject=[ACSC22-DC])
-Ruby Mendenhall - [rubymen@illinois.edu](mailto:rubymen@illinois.edu?subject=[ACSC22-DC])
+    * Linda Akli - [akli@sura.org](mailto:akli@sura.org?subject=[ACSC22-DC])
+    * Jay Alameda	- [alameda@illinois.edu](mailto:alameda@illinois.edu)
+    * Marques Bland -	[mbland@tacc.utexas.edu](mailto:mbland@tacc.utexas.edu?subject=[ACSC22-DC])
+    * Rylan Chong - [rylan.chong@chaminade.edu](mailto:rylan.chong@chaminade.edu?subject=[ACSC22-DC])
+    * Lizanne DeStefano - [ldestefano6@gatech.edu](mailto:ldestefano6@gatech.edu?subject=[ACSC22-DC])
+    * Sue Fratkin - [Susan.Fratkin@austin.utexas.edu](mailto:Susan.Fratkin@austin.utexas.edu?subject=[ACSC22-DC])
+    * Kelly Gaither - [kelly@tacc.utexas.edu](mailto:kelly@tacc.utexas.edu?subject=[ACSC22-DC])
+    * Rosalia Gomez - [rosie@tacc.utexas.edu](mailto:rosie@tacc.utexas.edu?subject=[ACSC22-DC])
+    * John Holly - [jholly@sura.org](mailto:jholly@sura.org?subject=[ACSC22-DC])
+    * Dawn Hunter - [dhunter@tacc.utexas.edu](mailto:dhunter@tacc.utexas.edu?subject=[ACSC22-DC])
+    * Kahoali`i Keahi-Wood - [kahoalii.keahi-wood@chaminade.edu](mailto:kahoalii.keahi-wood@chaminade.edu?subject=[ACSC22-DC])
+    * Ruby Mendenhall - [rubymen@illinois.edu](mailto:rubymen@illinois.edu?subject=[ACSC22-DC])
 
 
 
