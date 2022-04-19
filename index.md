@@ -11,7 +11,7 @@
 ### Executive Committee
 
 * Linda Akli - [akli@sura.org](mailto:akli@sura.org?subject=[ACSC22-DC])
-* Jay Alameda - [alameda@illinois.edu](mailto:alameda@illinois.edu)
+* Jay Alameda - [alameda@illinois.edu](mailto:alameda@illinois.edu?subject=[ACSC22-DC])
 * Marques Bland -[mbland@tacc.utexas.edu](mailto:mbland@tacc.utexas.edu?subject=[ACSC22-DC])
 * Rylan Chong - [rylan.chong@chaminade.edu](mailto:rylan.chong@chaminade.edu?subject=[ACSC22-DC])
 * Lizanne DeStefano - [ldestefano6@gatech.edu](mailto:ldestefano6@gatech.edu?subject=[ACSC22-DC])
