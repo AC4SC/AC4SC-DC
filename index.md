@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+![ASCS Header](assets/logo/ACSC-Horizontal%402x-100.jpg)
+## Advanced Computing for Social Change 2022 Washington, D.C.
+**Dates: May 16-20, 2022**
 
 You can use the [editor on GitHub](https://github.com/AC4SC/AC4SC-DC/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
