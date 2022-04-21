@@ -50,6 +50,7 @@ Informal Meet and Greet (6:30pm Dinner)
 
 Monday, May 16, 2022 
 * 7:00am - 8:30am       	Breakfast at Hotel 
+
 At SURA:
 * 8:30am - 8:45am	Opening and Code of Conduct 
 * 8:45am - 9:00am	IRB - Evaluation 
@@ -66,6 +67,7 @@ Dinner on your own
 
 Tuesday, May 17, 2022 
 * 7:00am - 8:30am       	Breakfast at Hotel
+
 At SURA:
 * 8:30am - 9:00am	Icebreaker
 * 9:00am - 10:00am	Group Work/T-shirt Distribution
@@ -79,6 +81,7 @@ Dinner on your own
 
 Wednesday, May 18, 2022 (wear T-shirt)
 * 7:00am - 8:30am       	Breakfast and COVID-19 Test at Hotel
+
 At SURA:
 * 8:30am - 9:00am	Icebreaker
 * 9:00am - 10:00am	Group Work
@@ -92,6 +95,7 @@ Dinner on your own
 
 Thursday, May 19, 2022
 * 7:00am - 8:30am       	Breakfast at Hotel
+
 At SURA:
 * 8:30am - 10:00am 	Group Check-in/Preparation 
 * 10:00am - 10:30am	Break
@@ -103,6 +107,7 @@ Dinner on your own
 
 Friday, May 20, 2022  (business attire)
 * 7:00am - 8:30am       	Breakfast at Hotel
+
 At SURA:
 * 9:00am - 9:30am	Final Preparation
 * 9:30am - 10:00am	Break
