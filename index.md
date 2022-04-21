@@ -44,12 +44,14 @@
 * May 12, 2022 - What to Expect (Travel Meeting), 7pm CDT
 
 ### Event Schedule - _Eastern Daylight Time (EDT)_
-Sunday, May 15, 2022 
-Travel and COVID-19 Test at Hotel (check-in 4pm)
-Informal Meet and Greet (6:30pm Dinner)
+**Sunday, May 15, 2022**
+* Travel and COVID-19 Test at Hotel (check-in 4pm)
+* Informal Meet and Greet (6:30pm Dinner)
 
-Monday, May 16, 2022 
-* 7:00am - 8:30am       	Breakfast at Hotel 
+**Monday, May 16, 2022**
+
+At Hotel: 
+* 7:00am - 8:30am       	Breakfast 
 
 At SURA:
 * 8:30am - 8:45am	Opening and Code of Conduct 
@@ -65,8 +67,10 @@ At SURA:
 *3:30pm - 4:30pm	Group Work/Tutorials 
 Dinner on your own
 
-Tuesday, May 17, 2022 
-* 7:00am - 8:30am       	Breakfast at Hotel
+**Tuesday, May 17, 2022**
+
+At Hotel:
+* 7:00am - 8:30am       	Breakfast
 
 At SURA:
 * 8:30am - 9:00am	Icebreaker
@@ -79,8 +83,10 @@ At SURA:
 * 3:30pm - 4:30pm	Group Work/Individual Check-in
 Dinner on your own
 
-Wednesday, May 18, 2022 (Wear T-shirt)
-* 7:00am - 8:30am       	Breakfast and COVID-19 Test at Hotel
+**Wednesday, May 18, 2022 (Wear T-shirt)**
+
+At Hotel:
+* 7:00am - 8:30am       	Breakfast and COVID-19 Test 
 
 At SURA:
 * 8:30am - 9:00am	Icebreaker
@@ -93,8 +99,10 @@ At SURA:
 * 3:30pm - 4:30pm	Group Work/Individual Check-in
 Dinner on your own
 
-Thursday, May 19, 2022
-* 7:00am - 8:30am       	Breakfast at Hotel
+**Thursday, May 19, 2022**
+
+At Hotel:
+* 7:00am - 8:30am       	Breakfast 
 
 At SURA:
 * 8:30am - 10:00am 	Group Check-in/Preparation 
@@ -105,8 +113,10 @@ At SURA:
 * 3:00pm - 4:30pm	Group Check-in/Preparation/Mock Presentation
 Dinner on your own
 
-Friday, May 20, 2022  (Business Attire)
-* 7:00am - 8:30am       	Breakfast at Hotel
+**Friday, May 20, 2022  (Business Attire)**
+
+At Hotel:
+* 7:00am - 8:30am       	Breakfast 
 
 At SURA:
 * 9:00am - 9:30am	Final Preparation
@@ -118,7 +128,7 @@ At SURA:
 * 3:30pm - 4:30pm	Student Presentations / Closing
 Dinner on your own
 
-Saturday, May 21, 2022
+**Saturday, May 21, 2022**
 Travel/Departure (check-out 11am)
 
 
