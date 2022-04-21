@@ -64,7 +64,7 @@ At SURA:
 * 12:30pm - 1:30pm 	Lunch
 * 1:30pm - 2:30pm	Data Visualization Presentation
 * 2:30pm - 3:30pm	Practical Applications Tutorial
-*3:30pm - 4:30pm	Group Work/Tutorials 
+* 3:30pm - 4:30pm	Group Work/Tutorials 
 Dinner on your own
 
 **Tuesday, May 17, 2022**
