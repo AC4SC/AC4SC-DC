@@ -49,7 +49,7 @@ Travel and COVID-19 Test at Hotel (check-in 4pm)
 Informal Meet and Greet (6:30pm Dinner)
 
 Monday, May 16, 2022 
-7:00am - 8:30am       	Breakfast at Hotel 
+* 7:00am - 8:30am       	Breakfast at Hotel 
 At SURA:
 8:30am - 8:45am	Opening and Code of Conduct 
 8:45am - 9:00am	IRB - Evaluation 
