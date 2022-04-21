@@ -79,7 +79,7 @@ At SURA:
 * 3:30pm - 4:30pm	Group Work/Individual Check-in
 Dinner on your own
 
-Wednesday, May 18, 2022 (wear T-shirt)
+Wednesday, May 18, 2022 (Wear T-shirt)
 * 7:00am - 8:30am       	Breakfast and COVID-19 Test at Hotel
 
 At SURA:
@@ -105,7 +105,7 @@ At SURA:
 * 3:00pm - 4:30pm	Group Check-in/Preparation/Mock Presentation
 Dinner on your own
 
-Friday, May 20, 2022  (business attire)
+Friday, May 20, 2022  (Business Attire)
 * 7:00am - 8:30am       	Breakfast at Hotel
 
 At SURA:
