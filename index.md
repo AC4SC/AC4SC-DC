@@ -51,66 +51,66 @@ Informal Meet and Greet (6:30pm Dinner)
 Monday, May 16, 2022 
 * 7:00am - 8:30am       	Breakfast at Hotel 
 At SURA:
-8:30am - 8:45am	Opening and Code of Conduct 
-8:45am - 9:00am	IRB - Evaluation 
-9:00am - 10:30am	Icebreaker
-10:30am - 10:45am	Break
-10:45am - 11:15am	Presentation Guidelines 
-11:15am - 11:30am	Break
-11:30am - 12:30pm	XSEDE New User Training 
-12:30pm - 1:30pm 	Lunch
-1:30pm - 2:30pm	Data Visualization Presentation
-2:30pm - 3:30pm	Practical Applications Tutorial
-3:30pm - 4:30pm	Group Work/Tutorials 
+* 8:30am - 8:45am	Opening and Code of Conduct 
+* 8:45am - 9:00am	IRB - Evaluation 
+* 9:00am - 10:30am	Icebreaker
+* 10:30am - 10:45am	Break
+* 10:45am - 11:15am	Presentation Guidelines 
+* 11:15am - 11:30am	Break
+* 11:30am - 12:30pm	XSEDE New User Training 
+* 12:30pm - 1:30pm 	Lunch
+* 1:30pm - 2:30pm	Data Visualization Presentation
+* 2:30pm - 3:30pm	Practical Applications Tutorial
+*3:30pm - 4:30pm	Group Work/Tutorials 
 Dinner on your own
 
 Tuesday, May 17, 2022 
-7:00am - 8:30am       	Breakfast at Hotel
+* 7:00am - 8:30am       	Breakfast at Hotel
 At SURA:
-8:30am - 9:00am	Icebreaker
-9:00am - 10:00am	Group Work/T-shirt Distribution
-10:00am - 10:30am	Break
-10:30am - 12:00pm	Group Work
-12:00pm - 1:30pm	Lunch 
-1:30pm - 3:00pm	Group Work/Individual Check-in
-3:00pm - 3:30pm	Break 
-3:30pm - 4:30pm	Group Work/Individual Check-in
+* 8:30am - 9:00am	Icebreaker
+* 9:00am - 10:00am	Group Work/T-shirt Distribution
+* 10:00am - 10:30am	Break
+* 10:30am - 12:00pm	Group Work
+* 12:00pm - 1:30pm	Lunch 
+* 1:30pm - 3:00pm	Group Work/Individual Check-in
+* 3:00pm - 3:30pm	Break 
+* 3:30pm - 4:30pm	Group Work/Individual Check-in
 Dinner on your own
 
 Wednesday, May 18, 2022 (wear T-shirt)
-7:00am - 8:30am       	Breakfast and COVID-19 Test at Hotel
+* 7:00am - 8:30am       	Breakfast and COVID-19 Test at Hotel
 At SURA:
-8:30am - 9:00am	Icebreaker
-9:00am - 10:00am	Group Work
-10:00am - 10:30am	Break
-10:30am - 12:00pm	Group Work/Individual Check-in
-12:00pm - 1:30pm	Lunch followed by Group Photo               
-1:30pm - 3:00pm	Group Work/Individual Check-in
-3:00pm - 3:30pm	Break 
-3:30pm - 4:30pm	Group Work/Individual Check-in
+* 8:30am - 9:00am	Icebreaker
+* 9:00am - 10:00am	Group Work
+* 10:00am - 10:30am	Break
+* 10:30am - 12:00pm	Group Work/Individual Check-in
+* 12:00pm - 1:30pm	Lunch followed by Group Photo               
+* 1:30pm - 3:00pm	Group Work/Individual Check-in
+* 3:00pm - 3:30pm	Break 
+* 3:30pm - 4:30pm	Group Work/Individual Check-in
 Dinner on your own
 
 Thursday, May 19, 2022
-7:00am - 8:30am       	Breakfast at Hotel
+* 7:00am - 8:30am       	Breakfast at Hotel
 At SURA:
-8:30am - 10:00am 	Group Check-in/Preparation 
-10:00am - 10:30am	Break
-10:30am - 12:00pm	Group Check-in/Preparation
-12:00pm - 1:30pm	Lunch
-1:30pm - 3:00pm	Group Check-in/Preparation/Mock Presentation
-3:00pm - 4:30pm	Group Check-in/Preparation/Mock Presentation
+* 8:30am - 10:00am 	Group Check-in/Preparation 
+* 10:00am - 10:30am	Break
+* 10:30am - 12:00pm	Group Check-in/Preparation
+* 12:00pm - 1:30pm	Lunch
+* 1:30pm - 3:00pm	Group Check-in/Preparation/Mock Presentation
+* 3:00pm - 4:30pm	Group Check-in/Preparation/Mock Presentation
 Dinner on your own
 
 Friday, May 20, 2022  (business attire)
-7:00am - 8:30am       	Breakfast at Hotel
+* 7:00am - 8:30am       	Breakfast at Hotel
 At SURA:
-9:00am - 9:30am	Final Preparation
-9:30am - 10:00am	Break
-10:00am - 12:00pm	Student Presentations
-12:00pm - 1:00pm	Lunch
-1:00pm - 3:00pm	Student Presentations
-3:00pm - 3:30pm	Break / Post Survey
-3:30pm - 4:30pm	Student Presentations / Closing
+* 9:00am - 9:30am	Final Preparation
+* 9:30am - 10:00am	Break
+* 10:00am - 12:00pm	Student Presentations
+* 12:00pm - 1:00pm	Lunch
+* 1:00pm - 3:00pm	Student Presentations
+* 3:00pm - 3:30pm	Break / Post Survey
+* 3:30pm - 4:30pm	Student Presentations / Closing
 Dinner on your own
 
 Saturday, May 21, 2022
