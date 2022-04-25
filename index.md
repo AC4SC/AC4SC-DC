@@ -15,7 +15,7 @@
 * Marques Bland -[mbland@tacc.utexas.edu](mailto:mbland@tacc.utexas.edu?subject=[ACSC22-DC])
 * Rylan Chong - [rylan.chong@chaminade.edu](mailto:rylan.chong@chaminade.edu?subject=[ACSC22-DC])
 * Lizanne DeStefano - [ldestefano6@gatech.edu](mailto:ldestefano6@gatech.edu?subject=[ACSC22-DC])
-* Sue Fratkin - [Susan.Fratkin@austin.utexas.edu](mailto:Sfratkin8@gmail.com?subject=[ACSC22-DC])
+* Sue Fratkin - [Susan.Fratkin@austin.utexas.edu](mailto:sfratkin8@gmail.com?subject=[ACSC22-DC])
 * Kelly Gaither - [kelly@tacc.utexas.edu](mailto:kelly@tacc.utexas.edu?subject=[ACSC22-DC])
 * Rosalia Gomez - [rosie@tacc.utexas.edu](mailto:rosie@tacc.utexas.edu?subject=[ACSC22-DC])
 * John Holly - [jholly@sura.org](mailto:jholly@sura.org?subject=[ACSC22-DC])
