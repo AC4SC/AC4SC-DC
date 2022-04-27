@@ -47,58 +47,10 @@
 | Day | Activities |
 |:-----------:|-----------------------------------------------------------------|
 | **Sunday <br> May 15, 2022** | **[@Hotel:]** <br> • Travel and COVID-19 Test at Hotel _(Checkin begins at 4pm)_  <br> • 6:30pm  Informal Meet and Greet and Dinner |
-| **Monday <br> May 16, 2022** | **[@Hotel:]** <br> • 7:00am - 8:30am EDT - Breakfast <br>  **[@SURA:]** <br> • 8:30am - 8:45am  Opening and Code of Conduct <br>• 8:45am - 9:00am	IRB Evaluation <br> • 9:00am - 10:30am Icebreaker <br> • 10:30am - 10:45am	Break<br> • 10:45am - 11:15am	Presentation Guidelines <br> • 11:15am - 11:30am	Break <br> • 11:30am - 12:30pm	XSEDE New User Training <br> • 12:30pm - 1:30pm 	Lunch <br> • 1:30pm - 2:30pm	Data Visualization Presentation <br> • 2:30pm - 3:30pm	Practical Applications Tutorial <br> • 3:30pm - 4:30pm	Group Work/Tutorials |
-
-****
-
-At Hotel: 
-* 7:00am - 8:30am       	Breakfast 
-
-At SURA:
-* 8:30am - 8:45am	Opening and Code of Conduct 
-* 8:45am - 9:00am	IRB - Evaluation 
-* 9:00am - 10:30am	Icebreaker
-* 10:30am - 10:45am	Break
-* 10:45am - 11:15am	Presentation Guidelines 
-* 11:15am - 11:30am	Break
-* 11:30am - 12:30pm	XSEDE New User Training 
-* 12:30pm - 1:30pm 	Lunch
-* 1:30pm - 2:30pm	Data Visualization Presentation
-* 2:30pm - 3:30pm	Practical Applications Tutorial
-* 3:30pm - 4:30pm	Group Work/Tutorials 
-Dinner on your own
-
-**Tuesday, May 17, 2022**
-
-At Hotel:
-* 7:00am - 8:30am       	Breakfast
-
-At SURA:
-* 8:30am - 9:00am	Icebreaker
-* 9:00am - 10:00am	Group Work/T-shirt Distribution
-* 10:00am - 10:30am	Break
-* 10:30am - 12:00pm	Group Work
-* 12:00pm - 1:30pm	Lunch 
-* 1:30pm - 3:00pm	Group Work/Individual Check-in
-* 3:00pm - 3:30pm	Break 
-* 3:30pm - 4:30pm	Group Work/Individual Check-in
-Dinner on your own
-
-**Wednesday, May 18, 2022 (Wear T-shirt)**
-
-At Hotel:
-* 7:00am - 8:30am       	Breakfast and COVID-19 Test 
-
-At SURA:
-* 8:30am - 9:00am	Icebreaker
-* 9:00am - 10:00am	Group Work
-* 10:00am - 10:30am	Break
-* 10:30am - 12:00pm	Group Work/Individual Check-in
-* 12:00pm - 1:30pm	Lunch followed by Group Photo               
-* 1:30pm - 3:00pm	Group Work/Individual Check-in
-* 3:00pm - 3:30pm	Break 
-* 3:30pm - 4:30pm	Group Work/Individual Check-in
-Dinner on your own
+| **Monday <br> May 16, 2022** | **[@Hotel:]** <br> • 7:00am - 8:30am EDT - Breakfast <br>  **[@SURA:]** <br> • 8:30am - 8:45am  Opening and Code of Conduct <br>• 8:45am - 9:00am	IRB Evaluation <br> • 9:00am - 10:30am Icebreaker <br> • 10:30am - 10:45am	Break<br> • 10:45am - 11:15am	Presentation Guidelines <br> • 11:15am - 11:30am	Break <br> • 11:30am - 12:30pm	XSEDE New User Training <br> • 12:30pm - 1:30pm 	Lunch <br> • 1:30pm - 2:30pm	Data Visualization Presentation <br> • 2:30pm - 3:30pm	Practical Applications Tutorial <br> • 3:30pm - 4:30pm	Group Work/Tutorials <br> _Dinner on your own_ |
+| **Tuesday <br> May 17, 2022** | **[@Hotel:]** <br> • 7:00am - 8:30am EDT - Breakfast <br>  **[@SURA:]** <br> • 8:30am - 9:00am	Icebreaker <br> • 9:00am - 10:00am	Group Work/T-shirt Distribution <br> • 10:00am - 10:30am	Break <br> • 10:30am - 12:00pm	Group Work <br> • 12:00pm - 1:30pm	Lunch <br> • 1:30pm - 3:00pm	Group Work/Individual Check-in <br> • 3:00pm - 3:30pm	Break <br> • 3:30pm - 4:30pm	Group Work/Individual Check-in <br> _Dinner on your own_ |
+| **Wednesday <br> May 18, 2022 <br> (_Wear T-Shirt_)** | **[@Hotel:]** <br> • 7:00am - 8:30am EDT - Breakfast <br>  **[@SURA:]** <br> • 8:30am - 9:00am	Icebreaker <br> • 9:00am - 10:00am	Group Work <br> • 10:00am - 10:30am	Break <br> • 10:30am - 12:00pm	Group Work/Individual Check-in <br> • 12:00pm - 1:30pm	Lunch followed by Group Photo <br> • 1:30pm - 3:00pm	Group Work/Individual Check-in <br> • 3:00pm - 3:30pm	Break 
+* 3:30pm - 4:30pm	Group Work/Individual Check-in <br> _Dinner on your own_ |
 
 **Thursday, May 19, 2022**
 
