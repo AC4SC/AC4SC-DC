@@ -48,17 +48,7 @@
 |-----------|:-----------------:|----------------------------|
 | Sunday <br> May 15, 2022 | Hotel |  - Travel and COVID-19 Test at Hotel (check-in 4pm) <br> - Informal Meet and Greet (6:30pm Dinner) |
 | Monday <br> May 16, 2022 | Hotel | • 7:00am - 8:30am EDT - Breakfast <br>  |
-|  | SURA | • 8:30am - 8:45am - Opening and Code of Conduct <br> 
-            • 8:45am - 9:00am	IRB - Evaluation <br> 
-            • 9:00am - 10:30am	Icebreaker <br> 
-            • 10:30am - 10:45am	Break<br> 
-            • 10:45am - 11:15am	Presentation Guidelines <br> 
-            • 11:15am - 11:30am	Break <br> 
-            • 11:30am - 12:30pm	XSEDE New User Training <br> 
-            • 12:30pm - 1:30pm 	Lunch <br> 
-            • 1:30pm - 2:30pm	Data Visualization Presentation <br> 
-            • 2:30pm - 3:30pm	Practical Applications Tutorial <br> 
-            • 3:30pm - 4:30pm	Group Work/Tutorials <br> |
+|  | SURA | • 8:30am - 8:45am - Opening and Code of Conduct <br>• 8:45am - 9:00am	IRB - Evaluation <br> • 9:00am - 10:30am	Icebreaker <br> • 10:30am - 10:45am	Break<br> • 10:45am - 11:15am	Presentation Guidelines <br> • 11:15am - 11:30am	Break <br> • 11:30am - 12:30pm	XSEDE New User Training <br> • 12:30pm - 1:30pm 	Lunch <br> • 1:30pm - 2:30pm	Data Visualization Presentation <br> • 2:30pm - 3:30pm	Practical Applications Tutorial <br> • 3:30pm - 4:30pm	Group Work/Tutorials |
 
 ****
 
