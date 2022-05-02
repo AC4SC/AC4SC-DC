@@ -51,7 +51,6 @@
 | **Tuesday <br> May 17, 2022** | **[@Hotel:]** <br> • 7:00am - 8:30am EDT - Breakfast <br>  **[@SURA:]** <br> • 8:30am - 9:00am	Icebreaker <br> • 9:00am - 10:00am	Group Work/T-shirt Distribution <br> • 10:00am - 10:30am	Break <br> • 10:30am - 12:00pm	Group Work <br> • 12:00pm - 1:30pm	Lunch <br> • 1:30pm - 3:00pm	Group Work/Individual Check-in <br> • 3:00pm - 3:30pm	Break <br> • 3:30pm - 4:30pm	Group Work/Individual Check-in <br> _Dinner on your own_ |
 | **Wednesday <br> May 18, 2022 <br> (_Wear T-Shirt_)** | **[@Hotel:]** <br> • 7:00am - 8:30am EDT - Breakfast <br>  **[@SURA:]** <br> • 8:30am - 9:00am	Icebreaker <br> • 9:00am - 10:00am	Group Work <br> • 10:00am - 10:30am	Break <br> • 10:30am - 12:00pm	Group Work/Individual Check-in <br> • 12:00pm - 1:30pm	Lunch followed by Group Photo <br> • 1:30pm - 3:00pm	Group Work/Individual Check-in <br> • 3:00pm - 3:30pm	Break <br> • 3:30pm - 4:30pm	Group Work/Individual Check-in <br> _Dinner on your own_ |
 | **Thursday <br> May 19, 2022** <br> (_Wear T-Shirt_)** | **[@Hotel:]** <br> • 7:00am - 8:30am Breakfast 
-
 At SURA:
 * 8:30am - 10:00am 	Group Check-in/Preparation 
 * 10:00am - 10:30am	Break
