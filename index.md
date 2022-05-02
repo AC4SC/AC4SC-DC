@@ -61,7 +61,7 @@ At SURA:
 * 4pm Judges Meeting and Dinner
 Dinner on your own
 
-**Friday, May 20, 2022  (Business Attire)**
+|**Friday, May 20, 2022  (Business Attire)** |
 
 At Hotel:
 * 7:00am - 8:30am       	Breakfast 
@@ -76,7 +76,7 @@ At SURA:
 * 3:30pm - 4:30pm	Student Presentations / Closing
 Dinner on your own
 
-**Saturday, May 21, 2022**
+|**Saturday, May 21, 2022** |
 Travel/Departure (check-out 11am)
 
 
