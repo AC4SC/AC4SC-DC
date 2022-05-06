@@ -45,7 +45,7 @@
 
 | Day | Activities |
 |:----:|----------| 
-| **Sunday <br> May 15, 2022**  | Test stuff |
+| **Sunday <br> May 15, 2022**  | **[@Hotel:]** <br> • Travel and COVID-19 Test at Hotel _(Checkin begins at 4pm)_  <br> **[@SURA:]** <br> • 6:00pm  Informal Meet and Greet and Dinner (Rooftop Conference Space) |
 
 <br>
 
