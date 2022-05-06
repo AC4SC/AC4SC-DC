@@ -45,7 +45,7 @@
 
 | Day | Activities |
 |:----:|----------| 
-| Test | Test stuff |
+| **Sunday <br> May 15, 2022**  | Test stuff |
 
 <br>
 
