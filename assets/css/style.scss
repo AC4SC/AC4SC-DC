@@ -3,4 +3,10 @@
 
 @import "{{ site.theme }}";
 
+tbody tr:nth-child(odd) {
+  background-color: #fff;
+}
 
+tbody tr:nth-child(even) {
+  background-color: #eee;
+}
