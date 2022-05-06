@@ -43,6 +43,12 @@
 * May 5, 2022 - Submit your research question via Slack, 11pm CDT
 * May 12, 2022 - What to Expect (Travel Meeting), 7pm CDT
 
+| Day | Activities |
+|:----:|----------| 
+| Test | Test stuff |
+
+<br>
+
 ### Event Schedule - _Eastern Daylight Time (EDT)_
 | Day | Activities |
 |:-----------:|-----------------------------------------------------------------|
