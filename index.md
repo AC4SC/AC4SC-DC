@@ -1,4 +1,3 @@
-![ASCS Header](assets/logo/ACSC-Horizontal%402x-100.jpg)
 ## Advanced Computing for Social Change 2022 Washington, D.C.
 
 ### Event Information
