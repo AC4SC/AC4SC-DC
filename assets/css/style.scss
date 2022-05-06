@@ -3,6 +3,11 @@
 
 @import "{{ site.theme }}";
 
+thead {
+  background-color: #333;
+  color: white;
+}
+
 tbody tr:nth-child(odd) {
   background-color: #fff;
 }
