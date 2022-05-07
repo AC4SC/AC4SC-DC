@@ -15,3 +15,7 @@ tbody tr:nth-child(odd) {
 tbody tr:nth-child(even) {
   background-color: #eee;
 }
+
+tbody tr:hover {
+  border-bottom: 2pt solid #0ae; 
+}
