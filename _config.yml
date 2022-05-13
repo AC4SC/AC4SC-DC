@@ -1,11 +1,6 @@
 theme: jekyll-theme-minimal
 title: 2022 ACSC East Coast DC 
-description: The Advanced Computing for Social Change Institute offers unique opportunities for participants who want to enhance their skillset and create positive change in their community.
-The programs recruit participants from diverse backgrounds who want to work collaboratively to:
-•	Learn to apply data analysis and computational thinking to a social challenge
-•	Experience the latest tools and techniques for exploring data through visualization
-•	Expand skills in team-based problem solving
-•	Learn how to communicate ideas more effectively to the general public
+description: The Advanced Computing for Social Change Institute offers unique opportunities for participants who want to enhance their skillset and create positive change in their community. The programs recruit participants from diverse backgrounds who want to work collaboratively to:	Learn to apply data analysis and computational thinking to a social challenge Experience the latest tools and techniques for exploring data through visualization. Expand skills in team-based problem solving.  Learn how to communicate ideas more effectively to the general public
 
 logo: assets/logo/ACSC-Horizontal%402x-100.jpg
 favicon: 'favicon.ico'
